@@ -10,3 +10,6 @@ resolver = "2"
 [profile.dev]
 opt-level = 2
 
+[dependencies]
+zeroize = "1.5.3"
+
